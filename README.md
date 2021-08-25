@@ -31,4 +31,4 @@ I'm flutter developer.
 
 **status**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubrajabi&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![ayoubrajabi GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubrajabi&hide=contribs,prs)
