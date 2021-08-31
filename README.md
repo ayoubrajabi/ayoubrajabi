@@ -2,27 +2,27 @@
 ![enter image description here](https://s4.uupload.ir/files/ayoub_rajabi_%281%29_zq9f.png)
 
 [![Twitter Badge](https://img.shields.io/badge/-@ayoubrajabi72-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ayoubrajabi72)](https://twitter.com/ayoubrajabi72) [![Linkedin Badge](https://img.shields.io/badge/-ayoubrajabi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoubrajabi/) [![Mail Badge](https://img.shields.io/badge/-@ayoubrajabi72-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ayoubrajabi72) [![Mail Badge](https://img.shields.io/badge/-ayoubrajabi72-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayoubrajabi72@gmail.com) 
-# Hi. I'm Ayoub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px"  alt="hi">
+# Hi,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px"  alt="hi"> I'm Ayoub
 
 I'm Flutter Developer with 1-year experience in learning and doing many projects.
 
 my skill in flutter: Bloc & Provider state management, Bloc pattern.
 
 <br />
-<br />
+
 
  **Skills and Experience**
  
 ![Generic badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Generic badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br />
-<br />
+
 
  **Tools**
 
-![Generic badge](https://img.shields.io/badge/-git-242331?logo=git&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-visualstudiocode-1ab3f6?logo=visualstudiocode&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-androidstudio-073042?logo=androidstudio&style=for-the-badge)
+![Generic badge](https://img.shields.io/badge/-git-242331?logo=git&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-visualstudiocode-1ab3f6?logo=visualstudiocode&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-androidstudio-073042?logo=androidstudio&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 <br />
-<br />
+
 
 
 **os**
