@@ -33,4 +33,4 @@ Skills: Dart lang, Bloc & Provider state management, Bloc pattern, and Git.
 
 **status**
 
-[![ayoubrajabi GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubrajabi&hide=contribs,prs)
+![ayoubrajabi GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubrajabi&hide=contribs,prs)
