@@ -6,7 +6,9 @@
 
 + 👨🏻‍💻 I'm Currently working on mobile development with Flutter
 
-+ ✍ I’m currently learning how to design - UI
++ ✍ I’m learning design patterns in flutter
+
++ 🎨 I’m currently learning how to design - UI
 
 
 
