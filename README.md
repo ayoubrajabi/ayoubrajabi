@@ -8,7 +8,7 @@
 
 + ✍ I’m learning design patterns in flutter
 
-+ 🎨 I’m currently learning clean code
++ 🧹 I’m currently learning clean code
 
 
 
