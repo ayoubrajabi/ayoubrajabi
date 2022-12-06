@@ -8,7 +8,7 @@
 
 + ✍ I’m learning design patterns in flutter
 
-+ 🎨 I’m currently learning how to design - UI
++ 🎨 I’m currently learning clean code
 
 
 
@@ -30,7 +30,7 @@
 
  **Tools**
 
-![Generic badge](https://img.shields.io/badge/-git-242331?logo=git&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-github-black?logo=github&logoColor=white&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-vscode-1ab3f6?logo=visualstudiocode&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-androidstudio-073042?logo=androidstudio&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Generic badge](https://img.shields.io/badge/-git-242331?logo=git&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-github-black?logo=github&logoColor=white&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-vscode-1ab3f6?logo=visualstudiocode&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-androidstudio-073042?logo=androidstudio&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)  ![Generic badge](https://img.shields.io/badge/-postman-black?logo=postman&logoColor=F24E1E&style=for-the-badge)
 
 <br />
 
@@ -38,7 +38,7 @@
 
 **OS**
 
-![Generic badge](https://img.shields.io/badge/-fedora-294172?logo=fedora&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-android-073042?logo=android&style=for-the-badge)
+![Generic badge](https://img.shields.io/badge/-macos-294172?logo=macos&style=for-the-badge) ![Generic badge](https://img.shields.io/badge/-android-073042?logo=android&style=for-the-badge)
 
 <br />
 <br />
