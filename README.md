@@ -48,10 +48,3 @@
 ![enter image description here](https://www.uplooder.net/img/image/76/82c30587889bebc08d1d8c4eeb98a472/Group-3-(4).png)
 
 
-
-#### Profile Visits
-
-  
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayoubrajabi.ayoubrajabi)
-
